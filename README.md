@@ -1,6 +1,4 @@
-# medical
-
-Flutter app, desain from driblle
+# Flutter-DNA-Research-App
 
 ![dribble version](images/dribble-version.png?raw=true "Title")
 ![flutter version](images/flutter-version.png?raw=true "Title")
